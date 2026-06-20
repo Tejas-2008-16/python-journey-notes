@@ -13,7 +13,18 @@ If you're reading this — you're welcome to follow along!
  
 ---
  
-## 🗺️ The Roadmap
+## 📺 Video Tutorials I'm Following
+ 
+> **New to Python? Watch the video first, then read the notes!**
+> The notes are a summary — the video shows you exactly how it looks in real life.
+ 
+| # | Day | Video | Channel |
+|---|-----|-------|---------|
+| 1 | Day 01 | [▶️ Install Python + Hello World + Variables](https://www.youtube.com/watch?v=YYXdXT2l-Gg) | Corey Schafer |
+ 
+---
+ 
+## 🗺️ My Progress
  
 | # | Day | What I Learned | Status |
 |---|-----|----------------|--------|
