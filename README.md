@@ -21,6 +21,7 @@ If you're reading this — you're welcome to follow along!
 | # | Day | Video | Channel |
 |---|-----|-------|---------|
 | 1 | Day 01 | [▶️ Install Python + Hello World + Variables](https://www.youtube.com/watch?v=YYXdXT2l-Gg) | Corey Schafer |
+| 2 | Day 02 | [▶️ Strings — Working with Textual Data](https://www.youtube.com/watch?v=k9TUPpGqYTo) | Corey Schafer |
  
 ---
  
@@ -29,6 +30,7 @@ If you're reading this — you're welcome to follow along!
 | # | Day | What I Learned | Status |
 |---|-----|----------------|--------|
 | 1 | [Day 01](./Day-01-Setup/) | Install Python + Hello World + Variables | ✅ Done |
+| 2 | [Day 02](./Day-02-Strings/) | Strings — Indexing, Slicing, Methods, f-Strings | ✅ Done |
  
 > More days coming as I keep watching and learning...
  
