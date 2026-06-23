@@ -22,6 +22,7 @@ If you're reading this — you're welcome to follow along!
 |---|-----|-------|---------|
 | 1 | Day 01 | [▶️ Install Python + Hello World + Variables](https://www.youtube.com/watch?v=YYXdXT2l-Gg) | Corey Schafer |
 | 2 | Day 02 | [▶️ Strings — Working with Textual Data](https://www.youtube.com/watch?v=k9TUPpGqYTo) | Corey Schafer |
+| 3 | Day 03 | [▶️ Integers and Floats — Working with Numbers](https://www.youtube.com/watch?v=khKv-8q7YmY) | Corey Schafer |
  
 ---
  
@@ -31,6 +32,7 @@ If you're reading this — you're welcome to follow along!
 |---|-----|----------------|--------|
 | 1 | [Day 01](./Day-01-Setup/) | Install Python + Hello World + Variables | ✅ Done |
 | 2 | [Day 02](./Day-02-Strings/) | Strings — Indexing, Slicing, Methods, f-Strings | ✅ Done |
+| 3 | [Day 03](./Day-03-Integers-Floats/) | Integers & Floats — Math, Operators, Conversion | ✅ Done |
  
 > More days coming as I keep watching and learning...
  
