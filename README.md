@@ -24,6 +24,7 @@ If you're reading this — you're welcome to follow along!
 | 2 | Day 02 | [▶️ Strings — Working with Textual Data](https://www.youtube.com/watch?v=k9TUPpGqYTo) | Corey Schafer |
 | 3 | Day 03 | [▶️ Integers and Floats — Working with Numbers](https://www.youtube.com/watch?v=khKv-8q7YmY) | Corey Schafer |
 | 4 | Day 04 | [▶️ Lists, Tuples, and Sets](https://www.youtube.com/watch?v=W8KRzm-HUcc) | Corey Schafer |
+| 5 | Day 05 | [▶️ Dictionaries — Working with Key-Value Pairs](https://www.youtube.com/watch?v=daefaLgNkw0) | Corey Schafer |
  
 ---
  
@@ -35,6 +36,7 @@ If you're reading this — you're welcome to follow along!
 | 2 | [Day 02](./Day-02-Strings/) | Strings — Indexing, Slicing, Methods, f-Strings | ✅ Done |
 | 3 | [Day 03](./Day-03-Integers-Floats/) | Integers & Floats — Math, Operators, Conversion | ✅ Done |
 | 4 | [Day 04](./Day-04-Lists-Tuples-Sets/) | Lists, Tuples & Sets — Store Multiple Values | ✅ Done |
+| 5 | [Day 05](./Day-05-Dictionaries/) | Dictionaries — Key-Value Pairs, Methods, Loops | ✅ Done |
  
 > More days coming as I keep watching and learning...
  
